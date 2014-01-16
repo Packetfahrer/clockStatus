@@ -1,0 +1,11 @@
+Package: jp.r-plus.cloakstatus
+Name: CloakStatus
+Depends: mobilesubstrate, firmware (>= 4.0), preferenceloader (>= 2.2.0)
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Status bar item manager.
+Maintainer: r_plus
+Author: r_plus
+Section: Tweaks
+Icon: file:///Library/PreferenceLoader/Preferences/CloakStatus@2x.png
+Conflicts: com.hitoriblog.statusbarcustomclock4
